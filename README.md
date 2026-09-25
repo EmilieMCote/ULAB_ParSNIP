@@ -2,4 +2,4 @@
 
 
 
-![poster](ULAB_ParSNIP_Poster.png)
+![poster](ULAB_ParSNIP_Poster.jpeg)
